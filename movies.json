@@ -1,0 +1,16 @@
+{
+  "movies": [
+    {
+      "id": "c227",
+      "title": "DUDE",
+      "genre": "sir",
+      "year": 2024
+    },
+    {
+      "id": "aa7e",
+      "title": "Baramulla",
+      "genre": "re",
+      "year": 2023
+    }
+  ]
+}
